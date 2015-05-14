@@ -1,0 +1,15 @@
+{
+    "name": "testsite",
+    "version": "1.0.0",
+    "settings": "./settings",
+    "website": "./website",
+    "dist": "../dist",
+    "url": {
+        "acceptance": "testsite-accp",
+        "production": "testsite"
+    },
+    "credentials": {
+        "username": "demo",
+        "password": "demo"
+    }
+}
