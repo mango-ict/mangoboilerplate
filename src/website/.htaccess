@@ -1,7 +1,0 @@
-AddType application/x-silverlight-app .xap
-AddType application/x-xpinstall .xpi
-AddType application/vnd.google-earth.kml+xml .kmz
-AddType application/vnd.adobe.air-application-installer-package+zip .air
-AddCharset utf-8 .js .php .css .html
-RewriteEngine On
-RewriteRule !(\.xap|\.air|\.kmz|\.rar|\.tar|\.gadget|\.db|\.vbs|\.js|\.htm|\.swf|\.html|\.gif|\.jpe?g|\.css|\.php|\.php3|\.png|\.pdf|\.doc|\.txt|\.zip|\.tgz|\.tar|\.rar|\.gz|\.ico|\.tar|\.sql|\.flv|\.mov|\.avi|\.mpe?g|\.odt|\.odg|\.odp|\.odf|\.odb|\.accdb|\.docx|\.xlsx|\.xlsx|\.xsn|\.pptx|\.pub|\.pptx|\.doc|\.xls|\.mdb|\.ppt|\.xml|\.xaml|\.docx|\.bmp|\.mp3|\.f4v|\.)$ index.php [NC,L]
