@@ -1,7 +1,3 @@
-# Important!
-
-We are still heavily developing on this boilerplate. And the CLI is not ready yet! Once a first release is possible we will remove this notification.
-
 # mangoboilerplate
 The mangoboilerplate is used with the Mango ICT - CLI to create and deploy mango websites to the mangoictcloud.com.
 
@@ -16,7 +12,20 @@ First install this through node:
 npm install mgs -g
 ```
 
-Then start a new website with the following command:
+Create a new directory
+
+```
+mkdir testwebsite
+cd testwebsite
+```
+
+Add a user to the directory
+
+```
+mgs addUser
+```
+
+Then start configuring a new website with the following command:
 
 ```
 mgs init
