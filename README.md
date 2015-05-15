@@ -2,7 +2,7 @@
 The mangoboilerplate is used with the Mango ICT - CLI to create and deploy mango websites to the mangoictcloud.com.
 
 [![PHP Version][npm-image]][npm-url]
-[![MGS Version][mgs-image]][node-url]
+[![MGS Version][mgs-image]][mgs-url]
   
 ## Installation
 To install and alter the boilerplate with all its rich features please use the Mango ICT - CLI called "mgs".
